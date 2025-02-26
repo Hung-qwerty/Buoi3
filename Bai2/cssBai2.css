@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+span1 {  
+    float: left;
+    line-height: 75%;
+    width: .7em;
+    font-size: 400%;
+}
+img {
+    text-align: center;
+    width: 100%;
+}
